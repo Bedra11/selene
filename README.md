@@ -1,4 +1,4 @@
-# Selene 🌙
+# Selene 
 
 Selene is a lightweight Python visualization library focused on clarity, consistency, and perceptual accuracy.
 
