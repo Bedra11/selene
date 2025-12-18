@@ -12,7 +12,6 @@ The library emphasizes:
 
 Selene is built on top of `matplotlib` and is intended for simple, clean visualizations rather than exhaustive customization.
 
----
 
 ## Installation
 
@@ -22,7 +21,6 @@ Install Selene locally (editable mode):
 pip install -e .
 ```
 
----
 
 ## Usage
 
