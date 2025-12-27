@@ -31,6 +31,19 @@ FONT_FAMILY = "DejaVu Sans"
 LINE_WIDTH = 2.5
 MARKER_SIZE = 6
 
+SELENE_SEQ = [
+    "#F6F7F9",  # background (very low)
+    "#E2E4E8",  # grid
+    "#C9CED8",
+    "#AEB5C4",
+    "#8A91A6",  # secondary
+    "#6B738A",
+    "#4C556F",
+    "#2F3A55",
+    "#1F2A44",  # primary (high)
+]
+
+
 
 
 # Style application
